@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doug</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dougie&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dougie" /> </p>
+
 <h3 align="left">About me: </h3>
 
 - 🔭 Looking for a job in the System Development market. 

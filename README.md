@@ -2,7 +2,7 @@
 
 <h3 align="left">About me: </h3>
 
-- 🔭 Looking for a job in the System Development market. 
+- 🔭 I'm a front-end developer at CoreBiz global.
 - 🌱 Currently I'm studying and developing systems based in web enviroment.
 - 💻 Student of System Development at Faculdade de Informática e Administração Paulista - FIAP.
 - 🚀 Goal: Become a FullStack developer helping people to solve problems.

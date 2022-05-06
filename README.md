@@ -1,12 +1,11 @@
-<h1 align="left">Hi 👋, I'm Doug</h1>
+<h1 align="left">Hi 👋, I'm Douglas</h1>
 
 <h3 align="left">About me: </h3>
 
 - 🔭 I'm a front-end developer at CoreBiz global.
 - 🌱 Currently I'm studying and developing systems based in web enviroment.
-- 💻 Student of System Development at Faculdade de Informática e Administração Paulista - FIAP.
 - 🚀 Goal: Become a FullStack developer helping people to solve problems.
-- 📫 How to reach me **dougllasp.s@outlook.com**
+- 📫 How to reach me **dougllasp.s@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -6,6 +6,7 @@
 - 🌱 Currently I'm studying and developing systems based in web enviroment.
 - 🚀 Goal: Become a FullStack developer helping people to solve problems.
 - 📫 How to reach me **dougllasp.s@hotmail.com**
+- 👀 Don't forget to check my first Github profile: https://github.com/dev-dougie
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
